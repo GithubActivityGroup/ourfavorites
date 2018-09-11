@@ -1,9 +1,5 @@
 hambugers
 spaghetti
 pho
-<<<<<<< HEAD:favorite-foods.txt
 sushi
-=======
 steak
-sushi
->>>>>>> 04a74bef9fb644ad1087d7b3d281b037649fec32:favorite‑foods.txt
